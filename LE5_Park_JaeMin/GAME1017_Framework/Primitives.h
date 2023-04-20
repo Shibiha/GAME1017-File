@@ -7,7 +7,7 @@
 class Image : public Sprite
 {
 public:
-	Image(SDL_Rect src, SDL_FRect dst , const char* key);
+	Image(SDL_Rect src, SDL_FRect dst, const char* key);
 	void Update() {};
 	void Render();
 private:

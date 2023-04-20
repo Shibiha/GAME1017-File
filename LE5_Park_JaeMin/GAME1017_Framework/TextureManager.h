@@ -16,7 +16,7 @@ public: // Public methods.
 
 private: // Private members.
 	static std::map<std::string, SDL_Texture*> s_textures;
-	TextureManager() = default;	
+	TextureManager() = default;
 };
 
 typedef TextureManager TEMA;
