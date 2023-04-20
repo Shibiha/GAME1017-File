@@ -1,0 +1,35 @@
+﻿  Button3.cpp
+C:\Users\jaeti\source\repos\GAME1017_W09_LabStart\GAME1017_Framework\Button3.h(4,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  CollisionManager.cpp
+C:\Users\jaeti\source\repos\GAME1017_W09_LabStart\GAME1017_Framework\CollisionManager.h(4,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  DebugManager.cpp
+C:\Users\jaeti\source\repos\GAME1017_W09_LabStart\GAME1017_Framework\DebugManager.h(3,10): fatal  error C1083: Cannot open include file: 'SDL_rect.h': No such file or directory
+  Engine.cpp
+C:\Users\jaeti\source\repos\GAME1017_W09_LabStart\GAME1017_Framework\Engine.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  EventManager.cpp
+C:\Users\jaeti\source\repos\GAME1017_W09_LabStart\GAME1017_Framework\EventManager.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  FontManager.cpp
+C:\Users\jaeti\source\repos\GAME1017_W09_LabStart\GAME1017_Framework\FontManager.h(7,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameObject.cpp
+C:\Users\jaeti\source\repos\GAME1017_W09_LabStart\GAME1017_Framework\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SDL_rect.h': No such file or directory
+  Main.cpp
+C:\Users\jaeti\source\repos\GAME1017_W09_LabStart\GAME1017_Framework\Engine.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MathManager.cpp
+C:\Users\jaeti\source\repos\GAME1017_W09_LabStart\GAME1017_Framework\MathManager.h(5,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Obstacle.cpp
+C:\Users\jaeti\source\repos\GAME1017_W09_LabStart\GAME1017_Framework\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SDL_rect.h': No such file or directory
+  ObstacleRow.cpp
+C:\Users\jaeti\source\repos\GAME1017_W09_LabStart\GAME1017_Framework\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SDL_rect.h': No such file or directory
+  Primitives.cpp
+C:\Users\jaeti\source\repos\GAME1017_W09_LabStart\GAME1017_Framework\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SDL_rect.h': No such file or directory
+  RenderManager.cpp
+C:\Users\jaeti\source\repos\GAME1017_W09_LabStart\GAME1017_Framework\RenderManager.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SoundManager.cpp
+C:\Users\jaeti\source\repos\GAME1017_W09_LabStart\GAME1017_Framework\SoundManager.h(6,10): fatal  error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  StateManager.cpp
+C:\Users\jaeti\source\repos\GAME1017_W09_LabStart\GAME1017_Framework\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SDL_rect.h': No such file or directory
+  States.cpp
+C:\Users\jaeti\source\repos\GAME1017_W09_LabStart\GAME1017_Framework\GameObject.h(3,10): fatal  error C1083: Cannot open include file: 'SDL_rect.h': No such file or directory
+  TextureManager.cpp
+C:\Users\jaeti\source\repos\GAME1017_W09_LabStart\GAME1017_Framework\TextureManager.h(5,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
